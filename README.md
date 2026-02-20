@@ -43,10 +43,10 @@ The dashboard was built using Tableau Public.
 
 ---
 
-## 🛠 Tools Used
-- Tableau Public
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+## 🛠 Tools & Technologies
+- Tableau (Dashboard Development)
+- Microsoft Excel (Data Preparation)
+- GitHub (Version Control & Portfolio Publishing)
 
 ---
 
